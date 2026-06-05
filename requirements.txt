@@ -1,0 +1,10 @@
+opencv-python==4.11.0.86
+numpy==2.2.5
+streamlit==1.45.1
+matplotlib==3.10.3
+Pillow==11.2.1
+joblib==1.5.0
+scikit-learn==1.6.1
+scikit-image==0.25.2
+mahotas==1.4.18
+tqdm==4.67.1
